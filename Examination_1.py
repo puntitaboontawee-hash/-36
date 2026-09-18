@@ -1,1 +1,1 @@
-c = float(input())
+c = float(input("อุณหภูมิองศาเซลเซียน: ")

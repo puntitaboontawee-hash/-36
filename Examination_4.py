@@ -7,4 +7,5 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-price = int(input())
+price = int(input("ราคาสินค้า"))
+price = int(input("ส่วนลด"))

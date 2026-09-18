@@ -6,4 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input("จำนวนเต็มบวก"))
+n = int(input("จำนวนเต็มลบ "))
+if n >= 0:
+    print("positive")
+if n > 0:
+    print("negative")
